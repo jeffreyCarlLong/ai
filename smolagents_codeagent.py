@@ -1,4 +1,4 @@
-# Data Camp Python smolagents 
+# Python smolagents 
 
 # Task for the agent
 task = f"""Analyze my monthly expense data by category. Calculate total spending per category, find my highest expense area, and suggest a realistic budget for next month. Use simple text format in your final answer. Here is my weekly expense data for the past four weeks:

@@ -5,7 +5,7 @@ format: html
 editor: visual
 ---
 
-## The Generative AI Revolution
+The Generative AI Revolution
 
 A new wave of generative AI systems like ChatGPT, Claude, Gemini, and Microsoft Copilot can generate entirely new content—whether that's text, code, images, or even video.
 
@@ -13,13 +13,13 @@ They can act as tools that help you accomplish complex tasks, like vibe coding a
 
 They're built on decades of research and development, combining advances in computer science, machine learning, natural language processing, and massive computational power.
 
-## **Different Types of Artificial Intelligence**
+Different Types of Artificial Intelligence
 
-### Expert Systems: Rule-Based Intelligence
+Expert Systems: Rule-Based Intelligence
 
 Expert systems operate on hard-coded rules and logic, following explicit if-then instructions. The temperature controls in your refrigerator are an example of an expert system (e.g. refrigerator temperature - if/then conditions).
 
-### Machine Learning: Learning from Data
+Machine Learning: Learning from Data
 
 Machine learning systems learn from data to recognize patterns and trends and make predictions.
 
@@ -31,44 +31,47 @@ Your phone's autocorrect system has been trained on millions of keystrokes to be
 
 Netflix's recommendation system is a model of your viewing habits and those of similar users to suggest content you are most likely to enjoy. In both of these cases, these systems recognize patterns learned from the data. Machine learning has unlocked tremendous potential across fields—from disease detection in healthcare to improved weather forecasting. The key difference? These systems learn from data rather than following explicit logic.
 
-### Generative AI
+Generative AI
 
 Generative AI, which emerged from technical advances in machine learning in the 2010's. While still part of the machine learning family, generative AI flips the paradigm from pattern recognition to pattern completion. Traditional machine learning takes input data and arrives at a prediction or decision—like analyzing system logs to detect a crash. Generative AI, on the other hand, attempts to complete the most likely pattern based on the input provided. When you ask a Generative AI chatbot to write a Shakespearean poem, it's completing what would naturally come next based on patterns it's learned about Shakespeare's writing style. This allows generative AI to produce entirely new data—whether that's text, images, video, music, or code. It's a fundamentally different approach that enables creative and generative capabilities we've never seen before.
 
-## Large Language Models (LLMs): Intelligence on Demand
+Large Language Models (LLMs): Intelligence on Demand
 
-## Prompt Engineering
+Prompt Engineering
 
 A simple four-part framework that will transform how you write prompts: Ask, Requirements, Context, and Examples.
 
-### the Ask
+the Ask
 
 This is your core request, stated clearly. For example: 'Summarize this quarterly report for executives.' Simple and direct. Second,
 
-### Requirements
+Requirements
 
 These are your specific constraints and preferences. You might say: 'Keep it to two paragraphs, focus on actionable insights rather than raw data, and avoid technical jargon.' Notice how this gives AI clear boundaries to work within. Third,
 
-### Context
+Context
 
-This is the background information that shapes how the task should be done. 'The executives reading this are non-technical and care most about strategic implications for decision-making.' This helps AI understand the audience and adjust its approach.
+This is the background information that shapes how the task should be done. 'The executives reading this are non-technical and care most about strategic implications for decision-making.' This helps AI understand the audience and adjust its approach. 
 
-### Examples
+Examples
 
 Showing what "good" looks like. You might provide a snippet of a previous summary that hit the mark, or even show a bad example with notes on what to avoid. Examples are incredibly powerful because they demonstrate your expectations in a way that descriptions alone cannot.
 
-## **The Power of Iterative Refinement**
+The Power of Iterative Refinement
 
 Think of working with AI like sculpting clay or play-doh. The first version gives you the rough shape, but refinement adds the detail. You don’t throw the clay away—you shape it. The same principle applies here. If the first draft is weak, guide it with specific feedback.
 
-## User Beware
+User Beware
 
--   Knowledge fabrication - key strategy is a “trust but verify” mindset. Always double-check critical information, especially in four areas: numbers and data points, citations and references, historical facts and dates, and technical details.
+Knowledge fabrication - key strategy is a “trust but verify” mindset. Always double-check critical information, especially in four areas: numbers and data points, citations and references, historical facts and dates, and technical details. 
 
--   Recency ignorance - Always check what that cutoff is; most models will tell you if asked. Then, verify anything that happened afterward, especially prices, regulations, personnel changes, and news.
+Recency ignorance - Always check what that cutoff is; most models will tell you if asked. Then, verify anything that happened afterward, especially prices, regulations, personnel changes, and news.
 
--   Biased Outputs
+Biased Outputs
 
--   Sycophantic Outputs - actively guide the AI toward objectivity and critical analysis. Maintain active skepticism, especially when its response feels particularly validating.
+Sycophantic Outputs - actively guide the AI toward objectivity and critical analysis. Maintain active skepticism, especially when its response feels particularly validating. 
 
--   Privacy and Data Exposure
+Privacy and Data Exposure
+
+Prompt Engineering Deep Dive
+

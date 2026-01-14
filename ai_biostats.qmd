@@ -76,3 +76,39 @@ Think of working with AI like sculpting clay or play-doh. The first version give
 ## Prompt Engineering Deep Dive
 
 Harnessing ChatGPT’s full potential requires a mix of art and science. This combination is what we call 'Prompt Engineering'. It’s all about writing inputs that maximize the quality of the output. The art lies in understanding the nuances of language, tone, and context. The science is about recognizing the model's capabilities and decoding strategies. Together, they help in sculpting the ideal prompt.
+
+There are nuances that separate a good prompt from a great one, letting you achieve optimal responses from language models like ChatGPT. Just as there are best practices in prompt engineering, there are also pitfalls to avoid: Overloading: Bombarding the model with too much information can dilute the essence of your query. Ambiguity: Being vague can lead to generalized answers. Over-Complication: Using jargon, complex phrasing, or unnecessary technicalities can confuse the model, leading to misinterpretations or overly complex answers.
+
+Prompts are the bridge between curiosity and knowledge. Use ChatGPT to augment, not replace, your creativity. Let it be a partnership where you break conventional thinking patterns, ushering in new ideas.
+
+### Infusing a Persona
+
+Instead of relying on a generic output, we can ask our trusty friend Ernest Hemingway to write a speech for us. Or we can have Shakespeare write our recipe for a vegan lunch.
+
+This can help influence output style, audience, length and tone. Four variables we can control to help reach our desired response.
+
+### Make it Personal
+
+See ChatGPT craft emails that echo your personal writing style. Providing examples to ChatGPT is a great way for the model to emulate your writing style. This makes every response resonate with your unique voice.
+
+### Use Markdown
+
+Markdown is an elegant way of structuring text. In addition, the correct use of quotation marks and delimiters will lead to a more tailored input. These are two smart tools you can use that will help remove ambiguity from your prompt, turning a good question into a great one.
+
+### Chain-of-Thought Training Techniques- Zero, One and Few Shot
+
+Chain-of-thought works by getting ChatGPT to break down a task into its subsequent steps. This can be done via (i) Zero-shot. Not providing any examples and asking ChatGPT for the problem-solving guide, or (ii) One/few-shot. Providing one or more examples of a framework that ChatGPT can use to tackle the problem.
+
+Zero Shot - "What should I watch?"
+
+One shot -  "I like Stranger Things and The Closer. What should I watch on Netflix?"
+
+### Limitations
+
+ChatGPT has its limitations. Understanding these conditions will help you recognise things like: Biases — The model presents stereotypes or misinformation Hallucinations — The model confidently states incorrect information Overfitting — The model is only as good as the data it's trained on Building a discerning eye for these shortcomings will help you get the most out of ChatGPT.
+
+### Anticipate Complex Workflows
+
+"Let's draft a startup plan focused on sustainable technology," will be our entry point into creating sophisticated, multi-part responses that mirror a strategic consultancy session. We can layer this with asks to ChatGPT for frameworks and resources that would’ve otherwise been overlooked. "Focus on solving a really tough problem the world is currently suffering from."
+
+

@@ -101,7 +101,7 @@ Chain-of-thought works by getting ChatGPT to break down a task into its subseque
 
 Zero Shot - "What should I watch?"
 
-One shot -  "I like Stranger Things and The Closer. What should I watch on Netflix?"
+One shot - "I like Stranger Things and The Closer. What should I watch on Netflix?"
 
 ### Limitations
 
@@ -111,4 +111,72 @@ ChatGPT has its limitations. Understanding these conditions will help you recogn
 
 "Let's draft a startup plan focused on sustainable technology," will be our entry point into creating sophisticated, multi-part responses that mirror a strategic consultancy session. We can layer this with asks to ChatGPT for frameworks and resources that would’ve otherwise been overlooked. "Focus on solving a really tough problem the world is currently suffering from."
 
+### Good Prompts
 
+Effective prompts typically exhibit three distinct traits: **Clarity**: A well-defined prompt includes the relevant context to reduce ambiguity. **Specificity**: The more specific you are, the closer you get to your desired answer. And finally, **open-endedness**: Sometimes, allowing the model to think outside the box can yield richer results that were non-obvious from the outset.
+
+LLMs can output checklists.
+
+In the transcript from the Huberman Lab podcast titled "How to Breathe Correctly for Optimal Health, Mood, Learning & Performance", a "physiological sigh" consists of two deep inhales through the nose followed by a full exhale through the mouth. It rapidly reduces stress in real time. It is not considered a hack, but rather a natural process that the body performs during sleep and throughout the day. The effectiveness is attributed to the optimal balancing of oxygen and carbon dioxide levels in the body. - Thanks Dr. Chat.
+
+Use this email to understand my writing style...
+
+Now write an email to do X.
+
+### Output Control
+
+To simplify output control, remember our acronym: SALT. Each letter stands for a different control variable: Style — define the framework; Audience — tailoring the content; Length — brevity or depth, and Tone — covering the mood and feel.
+
+#### Style 
+
+Style isn't just about the format; it's about the framework of your desired response. Asking for a structured output, like a list or a step-by-step guide, can drastically change the information you receive. “Describe the solar system” might give you a paragraph, but “List the planets in the solar system” provides a clear, organised response. By shaping the style, you shape the narrative.
+
+e.g. “Provide a list of steps I need to make the perfect blueberry pancake.”
+
+#### Audience
+
+Every audience is unique, with its own set of requirements. A child might need a simple, engaging explanation, while a professional might seek technical details. When we tailor our prompts to our intended audience, we ensure that the content we receive is both relevant and understandable. It's like dressing for the occasion; the content must fit the audience just right. I like to use audience controls if I’m learning a new concept and need a simple explanation. “Explain the concept of machine learning to me like I’m a 5-year-old.”
+
+#### Length
+
+Whether you want a concise summary or an in-depth analysis, controlling the length of your response is vital. This ensures that the information you receive is as detailed or as brief as you require. An example you could use for this course: “Write me traditional Japanese haiku about the importance of prompt engineering with ChatGPT."
+
+#### Tone
+
+Tone adds color to content. It defines the mood and feel of the response. Whether you're seeking a formal explanation, a casual chat, or a playful anecdote, setting the tone ensures your output resonates with its intended purpose. It's like choosing the music for a scene in a movie; the right tone can elevate the content and make it truly memorable.
+
+### Smart Prompting
+
+Cut-off date: if you’re asking questions or retrieving data in your prompt, you can specify: "If you don't know the answer and believe this information is after your cutoff date, specify that you don't know". Whilst this method isn’t perfect, highlighting the importance of cross-referencing data points, it can be a helpful tool to identify where ChatGPT’s limitations lie.
+
+#### LARF
+
+Engaging with ChatGPT yields a myriad of responses, but it's vital to judge the quality of these outputs. Before delving deep, let's set the stage by understanding the four cornerstones of evaluating responses. Yep, you guessed it, another acronym: LARF. But there’s no joke about its importance; it stands for **Logical consistency, Accuracy, Relevance and Factual correctness**. This will give you the skills to critically assess the outputs you receive from ChatGPT.
+
+#### Logical Consistency- the coherence check
+
+A response can be accurate, relevant, and factually correct but still lack logical consistency.
+
+#### Accuracy
+
+While striving for accuracy, it's crucial to be aware of ChatGPT's tendency to "hallucinate" at times. This means the model can confidently state an incorrect answer. Always cross-reference answers with alternate resources to ensure accuracy.
+
+#### Relevance - meeting the context
+
+Relevance ensures the response aligns with the context and intent of the prompt.
+
+#### Factual Correctness
+
+Provide your answer by only referencing and citing reliable sources.
+
+### Quotes Add Emphasis
+
+### Training Techniques
+
+Zero-shot provides no examples. One-shot supplies one example.
+
+One fascinating aspect of few-shot learning is that ChatGPT becomes more than just an autocomplete tool. It turns into a pattern-matching and pattern-generation engine. ChatGPT understands the structure of the information and generates new content based on recognized patterns you provide. Number one, it starts by analyzing the examples. It then mirrors the underlying patterns. Then finally it creates new ideas.
+
+The possibilities for few-shot learning are endless. You can feed ChatGPT examples of: your writing style to help construct email replies; also, formatting preferences for reports to ensure consistency across documents; and finally, decision-making frameworks to generate new approaches to problems. Few-shot learning provides the opportunity for ChatGPT to extend beyond a mere respondent and become an extension of our mind.
+
+Chain of Thought Prompting (COT) is an advanced technique that takes training a step further. Here, we're not just giving examples but a roadmap of how to arrive at the answer. It mirrors the way we are, as humans, approach problem-solving: by breaking down complex tasks into manageable steps.
